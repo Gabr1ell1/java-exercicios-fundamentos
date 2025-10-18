@@ -4,23 +4,23 @@ O objetivo é auxiliar no aprendizado da programação estruturada e orientada a
 
 📂 Estrutura do Repositório
 
-📘 ClasseScanner/
+# 📘 ClasseScanner/
 Exemplos de entrada de dados com a classe Scanner (leitura via terminal).
 
-⚖️ If-else/
+# ⚖️ If-else/
 Exercícios sobre estruturas condicionais — decisões simples, compostas e aninhadas.
 
-💬 JOptionPane/
+# 💬 JOptionPane/
 Programas que utilizam janelas gráficas (JOptionPane) para entrada e saída de dados.
 
-🔁 laçorepeticao.docs/
+# 🔁 laçorepeticao.docs/
 Exemplos com laços de repetição: for, while, e do-while.
 
-🧮 matrizes.docs/
+# 🧮 matrizes.docs/
 Exercícios e exemplos de uso de matrizes bidimensionais.
 
-🧩 metodos.docs/
+# 🧩 metodos.docs/
 Programas que exploram a criação e utilização de métodos em Java.
 
-📊 vetores.docs/
+# 📊 vetores.docs/
 Atividades envolvendo vetores (arrays unidimensionais).
