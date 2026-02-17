@@ -1,4 +1,3 @@
-# Estrutura
 java-fundamentos/
 │
 ├── logica-programacao/
@@ -40,11 +39,8 @@ Este repositório contém exercícios desenvolvidos durante meu 1º ano do curso
 
 🛠 Tecnologias
 
-Java
-IDE utilizada: NetBeans
+- Java
+- IDE utilizada: NetBeans
+
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-
-# 📊 vetores.docs/
-Atividades envolvendo vetores (arrays unidimensionais).
