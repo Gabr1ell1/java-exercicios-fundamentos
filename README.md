@@ -1,18 +1,3 @@
-java-fundamentos/
-│
-├── logica-programacao/
-│   ├── if-else/
-│   ├── lacos-repeticao/
-│   ├── vetores/
-│   └── matrizes/
-│
-├── orientacao-a-objetos/
-│   ├── classes/
-│   ├── metodos/
-│   └── encapsulamento/
-│
-└── README.md
-
 # Java – Fundamentos e Programação Orientada a Objetos
 
 Este repositório contém exercícios desenvolvidos durante meu 1º ano do curso de Desenvolvimento de Sistemas. O objetivo é consolidar conhecimentos em lógica de programação e fundamentos da linguagem Java.
