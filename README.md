@@ -1,26 +1,50 @@
-# Exercícios em Java
+# Estrutura
+java-fundamentos/
+│
+├── logica-programacao/
+│   ├── if-else/
+│   ├── lacos-repeticao/
+│   ├── vetores/
+│   └── matrizes/
+│
+├── orientacao-a-objetos/
+│   ├── classes/
+│   ├── metodos/
+│   └── encapsulamento/
+│
+└── README.md
 
-O objetivo é auxiliar no aprendizado da programação estruturada e orientada a objetos, com foco na lógica de programação e no uso de recursos básicos da linguagem.
+# Java – Fundamentos e Programação Orientada a Objetos
 
-📂 Estrutura do Repositório
+Este repositório contém exercícios desenvolvidos durante meu 1º ano do curso de Desenvolvimento de Sistemas. O objetivo é consolidar conhecimentos em lógica de programação e fundamentos da linguagem Java.
 
-# 📘 ClasseScanner/
-Exemplos de entrada de dados com a classe Scanner (leitura via terminal).
+📚 Conteúdos abordados
 
-# ⚖️ If-else/
-Exercícios sobre estruturas condicionais — decisões simples, compostas e aninhadas.
+- Estruturas condicionais (if / else)
+- Laços de repetição
+- Vetores e matrizes
+- Métodos
+- Classes
+- Introdução à Programação Orientada a Objetos
+- Entrada de dados com Scanner
+- Interface gráfica básica com JOptionPane
 
-# 💬 JOptionPane/
-Programas que utilizam janelas gráficas (JOptionPane) para entrada e saída de dados.
+🧠 Aprendizados
 
-# 🔁 laçorepeticao.docs/
-Exemplos com laços de repetição: for, while, e do-while.
+- Durante esses exercícios desenvolvi:
+- Raciocínio lógico
+- Estruturação de código
+- Organização em classes e métodos
+- Resolução de problemas
+- Boas práticas iniciais em Java
 
-# 🧮 matrizes.docs/
-Exercícios e exemplos de uso de matrizes bidimensionais.
+🛠 Tecnologias
 
-# 🧩 metodos.docs/
-Programas que exploram a criação e utilização de métodos em Java.
+Java
+IDE utilizada: NetBeans
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 
 # 📊 vetores.docs/
 Atividades envolvendo vetores (arrays unidimensionais).
